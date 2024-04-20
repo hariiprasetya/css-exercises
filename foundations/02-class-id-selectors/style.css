@@ -1,0 +1,18 @@
+p1,
+p2,
+p3 {
+    background-color: rgb(224, 90, 166);
+}
+
+div0 {
+    color : blue;
+    font-size: 36px;
+}
+p2 {
+    font-size: 24px;
+}
+div1 {
+    background-color: rgb(102, 235, 158);
+    font-size: 24px;
+    font-weight: bold;
+}
